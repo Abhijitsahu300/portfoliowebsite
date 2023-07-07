@@ -47,11 +47,7 @@ export const Banner=()=>{
   <Col xs={12} md={6} xl={7}>
    <span className="tagline">Welcome to my PortFolio</span>
    <h1>{`Hi I'm Abhijit `}<span className="wrap">{text}</span></h1>
-   <p>Microsoft Word (All versions) has a hidden feature that allows you to insert Lorem Ipsum or Random text 
-    into your document easily. I actually use the feature all the Word 2007, 2010, and the latest Word 2013 has
-    
-   
-      </p>
+   <p>Hello </p>
       <button onClick={()=>console.log('connect')}>Lets connect <ArrowRightCircle size={25} /> </button>
   </Col>
 
